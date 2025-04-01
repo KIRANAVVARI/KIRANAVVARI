@@ -35,7 +35,7 @@ Feel free to reach out if you’re interested in discussing any exciting opportu
 
 - 📧 Email: kiranmaheshavvari2001@gmail.com 
 - 🌐 LinkedIn: [linkedin.com/in/kiranavvari](https://www.linkedin.com/in/avvari-kiran-mahesh-430866175/) 
-- 💼 Resume: 
+- 💼 Resume: [Kiran Avvari - DevOps Engineer](https://github.com/KIRANAVVARI/KIRANAVVARI/blob/main/Kiran%20Mahesh%20Avvari-%20DevOps%20engineer%20-%20Resume.pdf)
 
 Thanks for visiting my GitHub! 😊
 
